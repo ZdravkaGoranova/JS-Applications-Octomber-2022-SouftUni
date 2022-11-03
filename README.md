@@ -1,2 +1,2 @@
-# JS-Applications---Octomber-2022
+# JS-Applications-Octomber-2022
 Course
