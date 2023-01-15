@@ -60,7 +60,7 @@
 
 ## 10. Exam Preparation
 
-## 11. Workshop: End-to-End Application - Part 1
+## 11. Workshop: End-to-End Application 
 
 
 
