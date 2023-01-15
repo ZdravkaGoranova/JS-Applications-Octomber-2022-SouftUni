@@ -1,6 +1,5 @@
 # JS-Applications-Octomber-2022
-
-##1. HTTP and REST Services
+#1. HTTP and REST Services
 
 • HTTP Headers;
 • CRUD Operations;
